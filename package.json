@@ -1,0 +1,19 @@
+{
+  "name": "karma-jasmine-sinon",
+  "version": "1.0.0",
+  "description": "Jasmine-sinon adapter for karma",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Karma",
+    "jasmine",
+    "sinon"
+  ],
+  "author": "asvetliakov@teledini.com",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine-sinon": "^0.4.0"
+  }
+}
